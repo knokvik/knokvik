@@ -9,7 +9,7 @@ I'm a web enthusiast with 1.5 years of enchanting the digital realm. I've conjur
 * 🌍  I'm based in Pune Maharashtra India.
 * 🖥️  See my portfolio at [nirajnaphade](http://neerajnaphade.com)
 * ✉️  You can contact me at [nirajnaphade30@gmail.com](mailto:nirajnaphade30@gmail.com)
-* 🚀  I'm currently working on [TypeRush]([http://typerush.com](https://type-rush-speed.vercel.app/))
+* 🚀  I'm currently working on [TypeRush]([http://typerush.com])
 * 🧠  I'm learning Nginx
 * 🤝  I'm open to collaborating on emerging web apps projects
 * ⚡  I'm Batman don't tell anyone.
