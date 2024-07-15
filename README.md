@@ -7,7 +7,6 @@ Web Weaver
 I'm a web enthusiast with 1.5 years of enchanting the digital realm. I've conjured wonders using React, Redux, Docker, HTML, CSS, and waltzed with Nginx.
 
 * 🌍  I'm based in Pune Maharashtra India.
-* 🖥️  See my portfolio at [nirajnaphade](http://neerajnaphade.com)
 * ✉️  You can contact me at [nirajnaphade30@gmail.com](mailto:nirajnaphade30@gmail.com)
 * 🚀 I'm currently working on [TypeRush](https://type-rush-speed.vercel.app/)
 * 🧠  I'm learning Nginx
