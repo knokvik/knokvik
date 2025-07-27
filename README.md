@@ -1,6 +1,6 @@
 Hi 👋 My name is Niraj
 ======================
-I believe in equal rights, equal bytes, and no bugs in my girl code!”
+I believe in equal rights, equal bytes, and no bugs in my girl code!
 ----------
 Just a curious programmer!!
 
