@@ -3,7 +3,7 @@
 
 Just a curious programmer!!
 * 🌍  Based in Pune, Maharashtra, India.
-* ✉️  Contact: **nirajnaphade30@gmail.com**
+* ✉️  Contact: **niraj.naphade30@gmail.com**
 ---
 
 ### 🌐 Connect with Me
