@@ -1,9 +1,9 @@
 ***
 ## 👋 Hi, I’m Niraj
 
-Just a curious programmer!!
-* 🌍  Based in Pune, Maharashtra, India.
+Just me with my laptop !!
 * ✉️  Contact: **niraj.naphade30@gmail.com**
+* Read about me more at https://portfolio-knokvik.vercel.app/
 ---
 
 ### 🌐 Connect with Me
@@ -25,7 +25,12 @@ Just a curious programmer!!
 
 ---
 
-### 🚀 Skills
+### 📊 Tech Usage in My Projects
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knokvik&layout=compact&theme=react&hide_border=true" />
+
+
+### 🚀 Tech in am introduced with..
 
 | Category | Technologies |
 |----------|--------------|
