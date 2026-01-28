@@ -3,7 +3,7 @@
 
 Just me with my laptop !!
 * ✉️  Contact: **niraj.naphade30@gmail.com**
-🔗 **Read more about me:** [Visit my portfolio](https://portfolio-knokvik.vercel.app/)
+* 🔗 Read more about here](https://portfolio-knokvik.vercel.app/)
 ---
 
 ### 🌐 Connect with Me
