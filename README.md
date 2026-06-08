@@ -8,7 +8,7 @@ Currently focused on understanding how large-scale systems are built—from stor
   <a href="mailto:niraj.naphade30@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" />
   </a>
-  <a href="https://your-portfolio.vercel.app">
+  <a href="https://knokvik.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel" />
   </a>
 </p>
