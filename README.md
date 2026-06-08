@@ -1,43 +1,71 @@
-***
-## 👋 Hi, I’m Niraj
+# Hi, I'm Neeraj 👋
 
-Just me with my laptop !!
-* ✉️  Contact: **niraj.naphade30@gmail.com**
-* 🔗 Read more about [here](https://portfolio-knokvik.vercel.app/)
+Software engineer interested in high-performance systems, modern C++, database internals, and AI infrastructure.
+
+Currently focused on understanding how large-scale systems are built—from storage engines and vector search to low-latency backend architectures.
+
+📫 niraj.naphade30@gmail.com  
+🌐 Portfolio: https://portfolio-knokvik.vercel.app/
 
 ---
 
-### 🌐 Connect with Me
+## Connect
 
 <p>
-  <a href="https://github.com/NeerajsGithub">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white&style=flat-square" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/NirajNaphade">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white&style=flat-square" alt="LinkedIn"/>
-  </a>
-  <a href="https://discord.com/users/ultron890">
-    <img src="https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white&style=flat-square" alt="Discord"/>
-  </a>
-  <a href="https://www.x.com/NeerajNaphade">
-    <img src="https://img.shields.io/badge/Twitter-000000?logo=x&logoColor=white&style=flat-square" alt="Twitter"/>
-  </a>
+  <a href="https://github.com/NeerajsGithub">GitHub</a> •
+  <a href="https://www.linkedin.com/in/NirajNaphade">LinkedIn</a> •
+  <a href="https://www.x.com/NeerajNaphade">X</a> •
+  <a href="https://discord.com/users/ultron890">Discord</a>
 </p>
 
 ---
 
-### 📊 Tech Usage in My Projects
+## Current Focus
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knokvik&layout=compact&theme=react&hide_border=true" />
-
-
-### 🚀 Tech in am introduced with..
-
-| Category | Technologies |
-|----------|--------------|
-| **Frontend** | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="24"/> &nbsp; <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="24"/> &nbsp; <img src="https://cdn.simpleicons.org/reactquery/FF4154" width="24"/> &nbsp; <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flutter-colored.svg" width="24"/> &nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/nextdotjs/FFFFFF"/><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/nextdotjs/000000"/><img src="https://cdn.simpleicons.org/nextdotjs/000000" width="24"/></picture> |
-| **Backend** | <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="24"/> &nbsp; <picture><source media="(prefers-color-scheme: dark)" srcset="https://cdn.simpleicons.org/express/FFFFFF"/><source media="(prefers-color-scheme: light)" srcset="https://cdn.simpleicons.org/express/000000"/><img src="https://cdn.simpleicons.org/express/000000" width="24"/></picture> &nbsp; <img src="https://cdn.simpleicons.org/typescript/3178C6" width="24"/> &nbsp; <img src="https://cdn.simpleicons.org/javascript/F7DF1E" width="24"/> &nbsp; <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="24"/> &nbsp; <img src="https://cdn.simpleicons.org/graphql/E10098" width="24"/> &nbsp; <img src="https://cdn.simpleicons.org/nginx/009639" width="24"/> |
-| **Database** | <img src="https://cdn.simpleicons.org/mysql/4479A1" width="24"/> &nbsp; <img src="https://cdn.simpleicons.org/postgresql/4169E1" width="24"/> &nbsp; <img src="https://cdn.simpleicons.org/redis/DC382D" width="24"/> &nbsp; <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="24"/> &nbsp; <img src="https://cdn.simpleicons.org/firebase/FFCA28" width="24"/> |
-
+- C++ Performance Engineering
+- Concurrency & Low-Latency Systems
+- RocksDB & Storage Engines
+- Vector Search & Embedding Systems
+- USearch & ANN Indexes
+- AI Infrastructure & LLM Architectures
+- Distributed Systems
 
 ---
+
+## What I'm Building
+
+Currently working on AI-powered security and risk assessment systems while exploring storage engine internals, retrieval architectures, and high-performance backend systems.
+
+Most of my recent learning revolves around modern C++, database internals, vector databases, networking, and scalable system design.
+
+---
+
+## Primary Stack
+
+**Languages**
+
+C++ • Python • TypeScript • JavaScript • SQL
+
+**Systems**
+
+Linux • Networking • Multithreading • Concurrency • Memory Management • Performance Optimization
+
+**Databases & Search**
+
+RocksDB • PostgreSQL • MySQL • Redis • Vector Search • Embedding Systems
+
+**Backend**
+
+Node.js • Express • REST APIs • Docker
+
+---
+
+## Familiar With
+
+React • Next.js • Flutter • MongoDB • GraphQL • Firebase • Nginx
+
+---
+
+## GitHub Stats
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=knokvik&layout=compact&hide_border=true" />
