@@ -6,7 +6,7 @@ Currently focused on understanding how large-scale systems are built—from stor
 
 <p align="left">
 
-  <a href="mailto:niraj.naphade30@gmail.com">
+  <a href="mailto:neerajnaphade02@gmail.com">
     <img src="https://img.shields.io/badge/email-contact-blue?style=flat&logo=gmail" />
   </a>
 
@@ -19,16 +19,16 @@ Currently focused on understanding how large-scale systems are built—from stor
 ## Connect
 
 <p align="left">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/knokvik">
     <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/niraj-naphade">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-<a href="https://x.com/yourhandle">
+<a href="https://x.com/knokvik">
   <img src="https://skillicons.dev/icons?i=twitter" height="40" />
 </a>
-  <a href="https://discord.com/users/yourid">
+  <a href="https://discord.com/users/ultron890">
     <img src="https://skillicons.dev/icons?i=discord" height="40" />
   </a>
 </p>
