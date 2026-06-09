@@ -5,30 +5,31 @@ Software engineer interested in high-performance systems, modern C++, database i
 Currently focused on understanding how large-scale systems are built—from storage engines and vector search to low-latency backend architectures.
 
 <p align="left">
-  <a href="mailto:niraj.naphade30@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-blue?style=for-the-badge&logo=gmail" />
-  </a>
-  <a href="https://knokvik.vercel.app/">
-    <img src="https://img.shields.io/badge/Portfolio-Visit-black?style=for-the-badge&logo=vercel" />
-  </a>
-</p>
 
----
+  <a href="mailto:niraj.naphade30@gmail.com">
+    <img src="https://img.shields.io/badge/email-contact-blue?style=flat&logo=gmail" />
+  </a>
+
+  <a href="https://knokvik.vercel.app/">
+    <img src="https://img.shields.io/badge/portfolio-visit-black?style=flat&logo=vercel" />
+  </a>
+
+</p>
 
 ## Connect
 
-<p align="">
+<p align="left">
   <a href="https://github.com/yourusername">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" />
+    <img src="https://skillicons.dev/icons?i=github" height="40" />
   </a>
   <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin" />
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-  <a href="https://x.com/yourhandle">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x" />
-  </a>
+<a href="https://x.com/yourhandle">
+  <img src="https://skillicons.dev/icons?i=twitter" height="40" />
+</a>
   <a href="https://discord.com/users/yourid">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord" />
+    <img src="https://skillicons.dev/icons?i=discord" height="40" />
   </a>
 </p>
 
