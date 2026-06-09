@@ -105,14 +105,3 @@ Most of my recent learning revolves around modern C++, database internals, vecto
 ![Cloud](https://img.shields.io/badge/Cloud-Computing-lightblue?style=for-the-badge)
 
 ---
-
-## GitHub Stats
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=YOUR_USERNAME&theme=github-dark-blue" />
-</p>
