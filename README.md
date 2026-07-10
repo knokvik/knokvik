@@ -1,16 +1,11 @@
-<!--
-  knokvik profile README
-  Self-updating neofetch-style card (dark/light). Stats refresh daily via Actions.
--->
+<!-- knokvik profile README -->
 
-<a href="https://github.com/knokvik">
+<p align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/knokvik/knokvik/main/dark_mode.svg">
-    <img alt="Niraj Naphade (knokvik) GitHub Profile" src="https://raw.githubusercontent.com/knokvik/knokvik/main/light_mode.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg?v=ca12191a">
+    <img alt="Niraj Naphade (knokvik)" src="light_mode.svg?v=ca12191a" width="985">
   </picture>
-</a>
-
-<br/>
+</p>
 
 ### Featured work
 
@@ -23,14 +18,8 @@
 | [redteamlab](https://github.com/knokvik/redteamlab) | Python | AI-assisted cybersecurity testing / AIVSS |
 | [ocula](https://github.com/knokvik/ocula) | TypeScript | Stepwise ML model visualiser |
 
-<br/>
-
 <p align="center">
   <a href="https://knokvik.vercel.app/">Portfolio</a> ·
   <a href="https://www.linkedin.com/in/niraj-naphade/">LinkedIn</a> ·
   <a href="https://github.com/knokvik">GitHub</a>
 </p>
-
-<!-- Optional: keep your existing 3D contribution graph if present in this repo
-![3D Contribution Graph](./profile-3d-contrib/profile-night-green.svg)
--->
