@@ -4,4 +4,9 @@ __pycache__/
 *.pyc
 .DS_Store
 .env
-*.egg-info/
+photo_full.png
+subject_only.png
+subject_canvas.png
+subject_preview.jpg
+profile_photo_src.png
+profile.jpg
