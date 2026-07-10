@@ -2,8 +2,8 @@
 
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg?v=632a6d17">
-    <img alt="Niraj Naphade (knokvik)" src="light_mode.svg?v=632a6d17" width="985">
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg?v=8ad0eafc">
+    <img alt="Niraj Naphade (knokvik)" src="light_mode.svg?v=8ad0eafc" width="1020" height="530">
   </picture>
 </p>
 
