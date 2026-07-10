@@ -1,15 +1,9 @@
 <!-- knokvik profile README -->
 
-<!-- Fixed size card: width+height set so the portrait ASCII is not horizontally squished -->
 <p align="left">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg?v=53ac855f">
-    <img
-      alt="Niraj Naphade (knokvik)"
-      src="light_mode.svg?v=53ac855f"
-      width="985"
-      height="530"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg?v=632a6d17">
+    <img alt="Niraj Naphade (knokvik)" src="light_mode.svg?v=632a6d17" width="985">
   </picture>
 </p>
 
