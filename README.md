@@ -1,1 +1,1 @@
-<picture><source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg?v=e5370781"><img alt="Niraj Naphade (knokvik)" src="light_mode.svg?v=e5370781" width="906" height="520" style="display:block;margin:0;padding:0;border:0;vertical-align:top"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg?v=8c02ac2e"><img alt="Niraj Naphade (knokvik)" src="light_mode.svg?v=8c02ac2e" width="1020" height="530" style="display:block;margin:0;padding:0;border:0;vertical-align:top"></picture>
