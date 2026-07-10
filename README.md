@@ -1,8 +1,1 @@
-<!-- knokvik profile README -->
-
-<p align="left">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg?v=6d52d1fa">
-    <img alt="Niraj Naphade (knokvik)" src="light_mode.svg?v=6d52d1fa" width="1020" height="530">
-  </picture>
-</p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="dark_mode.svg?v=5633b215"><img alt="Niraj Naphade (knokvik)" src="light_mode.svg?v=5633b215" width="1020" height="530" style="display:block;margin:0;padding:0;border:0;vertical-align:top"></picture>
